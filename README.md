@@ -1,10 +1,6 @@
 # Introduction
 
 
-# Introducción
-
-
-
 **<img src="img/abies_web_md.jpg" width="423" height="97" alt="Abiesweb" style="display: block; margin-left: auto; margin-right: auto;" />**
 
 
